@@ -7,20 +7,22 @@ includes movie title, a brief description, and shows the movie trailer
 when the movie image is selected
 
 #Installation --
-Download the resository.
-if you have git installed: 
-git clone https://github.com/lguadagna/movieTrailer
+Download the repository.
+If you have git installed:
 
-or use git hub "clone or download" button.
+`git clone https://github.com/lguadagna/movieTrailer`
 
-run the file "_entertainment_center.py_"
+or use green github "clone or download" button.
+
+Go into the MovieTrailer directory and
+run the file as:
+`_python entertainment_center.py_`
 
 The program should open a browser window displaying the movies html file. 
 
 ##Usage --
 
-You must have python installed. File extentions .py must be configured to run
-python programs
+You must have python installed. 
 
 You must have a default web browser configured. 
 
