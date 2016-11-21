@@ -31,6 +31,6 @@ Select any movie after the browser window is opened. It should show a trailer.
 
 
 ##License --
-MITLicense.txt
+MIT License
 Original source of fresh_tomatoes.py file on github site:
 https://github.com/adarsh0806/ud036_StarterCode
